@@ -16,4 +16,4 @@ function toggleMenu() {
   }
 }
 
-hamburger.addEventListener("click", toggleMenu);
+hamburger.addEventListener("tap", toggleMenu);
